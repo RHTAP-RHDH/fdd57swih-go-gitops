@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fdd57swih-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/fdd57swih-go
